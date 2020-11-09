@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@1&family=Bevan&family=Sansita+Swashed:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display&display=swap');
+
+
+header h1 {
+
+  font-size: 5.25em;
+  text-align: center;
+  font-family:  'Abril Fatface', cursive;；
+
+}
+
+a  {
+  font-size: 2.25em;
+  font-family: 'Arapey', serif;
+  text-align: center;
+  color:#9B93DF;
+}
+
+#main-menu {
+  font-size: 1em;
+  font-family: 'Arapey', serif;
+  text-align: center;
+  line-height: 2;
+
+
+}
+
+
+#fable01 {
+  font-family:  'Abril Fatface', cursive;
+}
+
+#fable01 h2 {
+  font-size: 3.5em;
+  margin: 2.75rem 0 2.75rem 0;
+  font-family:  'Abril Fatface', cursive;
+  color: #221F3B;
+}
+
+#fable01 p {
+  font-size: 1.5em;
+  margin-bottom: 5em;
+  font-family: 'Playfair Display', serif;
+  color: #050505;
+}
+
+
+#fable02 {
+font-family: 'Righteous', cursive;
+}
+
+#fable02 h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3.5em;
+  color: #221F3B;
+}
+
+#fable03 {
+  font-family:  'Righteous', cursive;
+  color: #10375c;
+}
+
+#fable03 h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3.5em;
+  color: #221F3B;
+}
+#fable03 p {
+  font-size: 1.5em;
+  margin-bottom: 5em;
+  font-family: 'Playfair Display', serif;
+  color: #050505;
+}
+
+#fable04 {
+font-family: 'Righteous', cursive;
+}
+
+#fable04 h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3.5em;
+  color: #221F3B;
+}
+
+#fable05 {
+  font-family:  'Righteous', cursive;
+  color: #10375c;
+}
+
+#fable05 h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3.5em;
+  color: #221F3B;
+}
+#fable05 p {
+  font-size: 1.5em;
+  margin-bottom: 5em;
+  font-family: 'Playfair Display', serif;
+  color: #050505;
+}
